@@ -1,0 +1,174 @@
+/*estrutura do site*/
+
+body{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.logomarca{
+    position: relative;
+    right: 500px;
+    top: 15px;
+}
+
+#menu{
+    border: 1px solid black;
+    background-image: url(imagens/fundo\ poster.jpg);
+    width: 100%;
+    height: 150px;
+    text-align: center;
+
+
+
+}
+
+
+a{   font-weight: bold;
+     color: aliceblue !important;
+     text-decoration: none !important;
+     font-size: 22px;
+     position: relative;
+     top: -60px;
+     padding: 5px;
+
+}
+
+
+#cabecalho{
+    background-color: aliceblue;
+    
+
+
+}
+#principal1{
+    position: relative;
+    right: -3px;
+    
+
+
+}
+.mensagem1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    position: relative;
+    bottom: 3px;
+
+
+}
+
+.poster1{
+    border: 1px solid black;
+    background-image: url(imagens/fundo\ poster.jpg);
+    width: 270px;
+    height: 320px;
+    float: right;
+    margin: 70px;
+    position: relative;
+    right: 70px;
+    bottom: 30px;
+    scale: 1.4;
+    
+    
+
+}
+.texto1{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    position: relative;
+    top: 5px;
+}
+.poster2{
+    border: 1px solid black;
+    background-image: url(imagens/fundo\ poster.jpg);
+    width: 270px;
+    height: 320px;
+    float: right;
+    margin: 70px;
+    position: relative;
+    right: 70px;
+    bottom: 30px;
+    scale: 1.4;
+
+
+}
+.texto2{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    position: relative;
+    top: 5px;
+}
+.poster3{
+    border: 1px solid black;
+    background-image: url(imagens/fundo\ poster.jpg);
+    width: 270px;
+    height: 320px;
+    float: right;
+    margin: 70px;
+    position: relative;
+    right: 70px;
+    bottom: 30px;
+    scale: 1.4;
+    
+    
+
+}
+.texto3{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    position: relative;
+    top: 5px;
+}
+
+
+
+#rodape{
+    clear: both;
+    border: 2px solid black;
+    padding: 70px;
+    background-image: url(imagens/fundo\ rodape.jpg);
+
+
+}
+.zap{
+    text-align: center;
+    position: relative;
+    top: 10px;
+
+}
+.direitos{
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    font-size: 18px;
+}
+.email{
+    text-align: center;
+    color: aliceblue;
+    position: relative;
+    bottom: 30px;
+    font-size: 18px;
+}
+.telefone{
+    text-align: center;
+    color: aliceblue;
+    position: relative;
+    bottom: 20px;
+    font-size: 20px;
+}
+.endereco{
+    text-align: center;
+    color: aliceblue;
+    position: relative;
+    bottom: 20px;
+    font-size: 20px;
+}
