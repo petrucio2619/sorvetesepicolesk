@@ -47,9 +47,6 @@ a{   font-weight: bold;
 #principal1{
     position: relative;
     right: -3px;
-    
-
-
 }
 .mensagem1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -57,7 +54,9 @@ a{   font-weight: bold;
     font-size: 24px;
     text-align: center;
     position: relative;
-    bottom: 3px;
+    bottom: 13px;
+
+
 }
 .poster1{
     border: 1px solid black;
@@ -66,11 +65,11 @@ a{   font-weight: bold;
     height: 320px;
     float: right;
     background-image: url(imagens/fundo\ poster.jpg);
-    position: relative;
-    right: 110px;
-    top: 30px;
+    margin: 70px;
+    position: absolute;
+    right: 40px;
+    top: 90px;
     scale: 1.4;
-    
 }
 .texto1{
     text-align: center;
@@ -79,6 +78,8 @@ a{   font-weight: bold;
     position: relative;
     top: 5px;
 }
+
+
 
 
   
