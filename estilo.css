@@ -58,24 +58,19 @@ a{   font-weight: bold;
     text-align: center;
     position: relative;
     bottom: 3px;
-
-
 }
-
 .poster1{
     border: 1px solid black;
     background-image: url(imagens/fundo\ poster.jpg);
     width: 270px;
     height: 320px;
     float: right;
-    margin: 70px;
+    background-image: url(imagens/fundo\ poster.jpg);
     position: relative;
-    right: 70px;
-    bottom: 30px;
+    right: 110px;
+    top: 30px;
     scale: 1.4;
     
-    
-
 }
 .texto1{
     text-align: center;
@@ -84,49 +79,15 @@ a{   font-weight: bold;
     position: relative;
     top: 5px;
 }
-.poster2{
-    border: 1px solid black;
-    background-image: url(imagens/fundo\ poster.jpg);
-    width: 270px;
-    height: 320px;
-    float: right;
-    margin: 70px;
-    position: relative;
-    right: 70px;
-    bottom: 30px;
-    scale: 1.4;
 
 
-}
-.texto2{
-    text-align: center;
-    color: aliceblue;
-    font-weight: bold;
-    position: relative;
-    top: 5px;
-}
-.poster3{
-    border: 1px solid black;
-    background-image: url(imagens/fundo\ poster.jpg);
-    width: 270px;
-    height: 320px;
-    float: right;
-    margin: 70px;
-    position: relative;
-    right: 70px;
-    bottom: 30px;
-    scale: 1.4;
-    
+  
+
+
+   
     
 
-}
-.texto3{
-    text-align: center;
-    color: aliceblue;
-    font-weight: bold;
-    position: relative;
-    top: 5px;
-}
+
 
 
 
